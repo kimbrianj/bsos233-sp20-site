@@ -1,8 +1,8 @@
 # BSOS 233: Data Science for Social Sciences
 
-**Instructor**: Brian Kim (kimbrian@umd.edu)
+**Instructor**: Brian Kim ([kimbrian@umd.edu](mailto:kimbrian@umd.edu))
 
-**Office Hours**: Tuesday 2-3pm and Wednesday 2-3pm, and by appointment in LeFrak 1218S
+**Office Hours**: Tuesday 2-3pm and Wednesday 2-3pm, and by appointment in **LeFrak 1218S**
 
 An introduction to modern methods of data analysis for social scientists. This course emphasizes
 teaching students who have no previous coding experience how to analyze data and extract meaning
